@@ -5,6 +5,7 @@ go 1.12
 require (
 	github.com/lxn/walk v0.0.0-20191128110447-55ccb3a9f5c1
 	github.com/lxn/win v0.0.0-20191128105842-2da648fda5b4 // indirect
+	github.com/mpetavy/common v1.1.31 // indirect
 	golang.org/x/sys v0.0.0-20200420163511-1957bb5e6d1f // indirect
 	gopkg.in/Knetic/govaluate.v3 v3.0.0 // indirect
 )
