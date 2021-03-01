@@ -1,6 +1,6 @@
 module github.com/mpetavy/walk
 
-go 1.12
+go 1.16
 
 require (
 	github.com/lxn/walk v0.0.0-20191128110447-55ccb3a9f5c1
