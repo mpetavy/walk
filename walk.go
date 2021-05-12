@@ -2,9 +2,6 @@ package main
 
 import (
 	"strings"
-
-	"github.com/lxn/walk"
-	. "github.com/lxn/walk/declarative"
 )
 
 func main() {
